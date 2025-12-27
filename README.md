@@ -21,3 +21,6 @@
     - `best.pt` (Trained model weights)
     - `train.log` (Training history and detailed test metrics)
     - `waveform_gt_vs_pred.png` (Visual verification of signal separation)
+
+
+## Steps for running the Transformer code
